@@ -1,0 +1,1 @@
+Stitch sequence of images.
